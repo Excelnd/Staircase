@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Staircase", "Staircase\Staircase.vcxproj", "{B46B0262-9113-4E76-A9FC-C7CE4EE57777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Debug|x64.ActiveCfg = Debug|x64
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Debug|x64.Build.0 = Debug|x64
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Debug|x86.ActiveCfg = Debug|Win32
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Debug|x86.Build.0 = Debug|Win32
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Release|x64.ActiveCfg = Release|x64
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Release|x64.Build.0 = Release|x64
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Release|x86.ActiveCfg = Release|Win32
+		{B46B0262-9113-4E76-A9FC-C7CE4EE57777}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55DFB1E-9CEC-4911-B440-7FBEE630A4E8}
+	EndGlobalSection
+EndGlobal
